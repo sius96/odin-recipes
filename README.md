@@ -1,2 +1,4 @@
 # odin-recipes
-Recipes collections
+Recipes collections project
+
+This project will contain HMTL and CSS
